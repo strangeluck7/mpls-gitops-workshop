@@ -49,4 +49,4 @@ team_settings:
         - 10
 software:
   packages:
-    - path: ../windows/software/cloudflare-warp.yml
+    - path: ../software/cloudflare-warp.yml
