@@ -26,7 +26,7 @@ controls:
       - path: ../lib/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
     macos_updates:
       deadline: "2025-10-10"
-      minimum_version: "16.0"
+      minimum_version: "26.0"
 team_settings:
   secrets:
     - secret: "$FLEET_NEW_HIRES_ENROLL_SECRET"
